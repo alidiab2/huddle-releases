@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.0",
-  "notes": "New: Jelly Brawl (Gang Beasts-style fights). Every game now has 3 maps, surprises and power-ups: Paint Blast sniper perch, weapons and teams; new Kart tracks and items; harder bots everywhere.",
-  "size": 69190013,
-  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.1.0-3/Huddle.apk"
+  "versionCode": 4,
+  "versionName": "1.2.0",
+  "notes": "Tower Party is shorter and tenser (shot clock, sudden death). Bumper Ball: faster players, bigger goals, no parking in your own goal. Paint Blast: less auto-aim, crouch and crawl, take cover and lean out to shoot. Fixed the cut-off intro screen.",
+  "size": 69227585,
+  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.2.0-4/Huddle.apk"
 }
