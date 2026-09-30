@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
+  "versionCode": 7,
   "versionName": "1.0.0",
-  "notes": "Tested and fixed every new game: clearer cameras, find-yourself markers, readable screens. Wizard Duel no longer freezes and has balanced spells; Jelly Brawl no longer launches jellies into the sky; Sheep Rustlers pens are visible. Toy Soldiers, Bomber Party and Shake Race are hidden for now.",
-  "size": 78843859,
-  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-6/Huddle.apk"
+  "notes": "All of today's fixes (the previous update was built from older code by mistake): every new game tested and fixed, bot difficulty (Easy / Normal / Hard) in the lobby, Jelly Brawl box-jump launch fixed.",
+  "size": 78916103,
+  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-7/Huddle.apk"
 }
