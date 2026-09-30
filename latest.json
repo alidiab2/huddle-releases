@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
+  "versionCode": 6,
   "versionName": "1.0.0",
-  "notes": "10 new games: Wizard Duel, Ghost Hunt, Who Ate the Cake?, Shake Race, Snowball Clash, Toy Soldiers, Kitchen Chaos, Spy in the Crowd, Bomber Party, Sheep Rustlers. 1v1 cups now play two matches at once; penalty keeper can reach every shot.",
-  "size": 78843863,
-  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-5/Huddle.apk"
+  "notes": "Tested and fixed every new game: clearer cameras, find-yourself markers, readable screens. Wizard Duel no longer freezes and has balanced spells; Jelly Brawl no longer launches jellies into the sky; Sheep Rustlers pens are visible. Toy Soldiers, Bomber Party and Shake Race are hidden for now.",
+  "size": 78843859,
+  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-6/Huddle.apk"
 }
