@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
+  "versionCode": 9,
   "versionName": "1.0.0",
-  "notes": "Big update: cuter 3D characters, Play now with bots, games grid + random game, how-to card for every game, 7 languages (English, العربية, Español, Français, Deutsch, Português, Türkçe), announcer voice, graphics setting, reconnect after your phone locks, many bug fixes.",
-  "size": 81990787,
-  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-8/Huddle.apk"
+  "notes": "Every control explained with a demo in How to play, Arabic right-to-left fixes, no more cut-off text, wings and other items fully shown in Dress up, Paint Blast weapons rebalanced (scoped sniper), and more fixes.",
+  "size": 82069935,
+  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-9/Huddle.apk"
 }
