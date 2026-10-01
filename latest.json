@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
+  "versionCode": 8,
   "versionName": "1.0.0",
-  "notes": "All of today's fixes (the previous update was built from older code by mistake): every new game tested and fixed, bot difficulty (Easy / Normal / Hard) in the lobby, Jelly Brawl box-jump launch fixed.",
-  "size": 78916103,
-  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-7/Huddle.apk"
+  "notes": "Big update: cuter 3D characters, Play now with bots, games grid + random game, how-to card for every game, 7 languages (English, العربية, Español, Français, Deutsch, Português, Türkçe), announcer voice, graphics setting, reconnect after your phone locks, many bug fixes.",
+  "size": 81990787,
+  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-8/Huddle.apk"
 }
