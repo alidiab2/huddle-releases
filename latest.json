@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
+  "versionCode": 10,
   "versionName": "1.0.0",
-  "notes": "Every control explained with a demo in How to play, Arabic right-to-left fixes, no more cut-off text, wings and other items fully shown in Dress up, Paint Blast weapons rebalanced (scoped sniper), and more fixes.",
-  "size": 82069935,
-  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-9/Huddle.apk"
+  "notes": "Emotes everyone can see (bubbles + dances, bots answer back), emotes on the results and waiting screens, a tidier lobby, and wide outfits never cut off.",
+  "size": 82085983,
+  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-10/Huddle.apk"
 }
