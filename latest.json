@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
+  "versionCode": 12,
   "versionName": "1.0.0",
-  "notes": "Emotes everyone can see (bubbles + dances, bots answer back), emotes on the results and waiting screens, a tidier lobby, and wide outfits never cut off.",
-  "size": 82085983,
-  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-10/Huddle.apk"
+  "notes": "New game: Tumble Rush! Wobbly obstacle races on dessert maps for 2-8 players. The announcer now cheers big moments inside the games (final lap, what a save, bullseye, gotcha...) in all 7 languages.",
+  "size": 79809772,
+  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-12/Huddle.apk"
 }
