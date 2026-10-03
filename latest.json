@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
+  "versionCode": 14,
   "versionName": "1.0.0",
-  "notes": "14 dances with favourites, and dancing inside 11 games. Portrait games fill the whole screen, with a small End button that asks first. The back button no longer closes the game.",
-  "size": 79843576,
-  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-13/Huddle.apk"
+  "notes": "New: Party Night! Chain 3, 5 or 8 games, earn points for every placing, vote for the next game, last game counts double, and crown a champion on the podium.",
+  "size": 79918760,
+  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-14/Huddle.apk"
 }
