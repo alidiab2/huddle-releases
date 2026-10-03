@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
+  "versionCode": 19,
   "versionName": "1.0.0",
-  "notes": "Knocked out? Become a ghost and throw tomatoes in Jelly Brawl, Bumper Brawl, Beach Keepers and Tower Party. Team colours are now easier to tell apart, with team symbols for colour-blind players.",
-  "size": 80444520,
-  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-18/Huddle.apk"
+  "notes": "Battery saver: lower graphics and 30 fps when the battery is low or the phone gets hot. If a game ever breaks you get a friendly screen instead of a freeze, and Settings has Report a problem.",
+  "size": 80497152,
+  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-19/Huddle.apk"
 }
