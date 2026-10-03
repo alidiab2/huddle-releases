@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
+  "versionCode": 16,
   "versionName": "1.0.0",
-  "notes": "Join by QR: the host taps Show QR, friends scan it with the camera. A Can't find the room? guide. If someone drops mid-game, a bot keeps playing for them until they're back.",
-  "size": 80003744,
-  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-15/Huddle.apk"
+  "notes": "New game: Sticky Bomb! The bomb sticks to your hands, touch someone to pass it before it blows. Soap floors, trampolines, seesaws, a giant fan, and ghosts throwing tomatoes.",
+  "size": 80185592,
+  "apk": "https://github.com/alidiab2/huddle-releases/releases/download/v1.0.0-16/Huddle.apk"
 }
